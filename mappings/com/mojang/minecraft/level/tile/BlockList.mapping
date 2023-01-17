@@ -1,2 +1,0 @@
-CLASS com/mojang/minecraft/a com/mojang/minecraft/level/tile/BlockList
-	FIELD a list Ljava/util/List;

@@ -1,4 +1,0 @@
-CLASS com/mojang/minecraft/server/e com/mojang/minecraft/server/ServerLogThread
-	FIELD a server Lcom/mojang/minecraft/server/MinecraftServer;
-	METHOD <init> (Lcom/mojang/minecraft/server/MinecraftServer;)V
-		ARG 1 server

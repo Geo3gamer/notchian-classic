@@ -1,7 +1,0 @@
-CLASS com/mojang/minecraft/level/b/a com/mojang/minecraft/level/liquid/LiquidType
-	FIELD a NOT_LIQUID Lcom/mojang/minecraft/level/b/a;
-	FIELD b WATER Lcom/mojang/minecraft/level/b/a;
-	FIELD c LAVA Lcom/mojang/minecraft/level/b/a;
-	FIELD d values [Lcom/mojang/minecraft/level/b/a;
-	METHOD <init> (I)V
-		ARG 1 liquid

@@ -1,3 +1,0 @@
-CLASS com/mojang/minecraft/server/c com/mojang/minecraft/server/ServerLogFormatter
-	METHOD format (Ljava/util/logging/LogRecord;)Ljava/lang/String;
-		ARG 1 record

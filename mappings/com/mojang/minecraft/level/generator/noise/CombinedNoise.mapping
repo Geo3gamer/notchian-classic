@@ -1,6 +1,0 @@
-CLASS com/mojang/minecraft/level/a/a/b com/mojang/minecraft/level/generator/noise/CombinedNoise
-	FIELD a noise1 Lcom/mojang/minecraft/level/a/a/c;
-	FIELD b noise2 Lcom/mojang/minecraft/level/a/a/c;
-	METHOD <init> (Lcom/mojang/minecraft/level/a/a/c;Lcom/mojang/minecraft/level/a/a/c;)V
-		ARG 1 noise1
-		ARG 2 noise2

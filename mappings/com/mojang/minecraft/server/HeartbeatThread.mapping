@@ -1,5 +1,0 @@
-CLASS com/mojang/minecraft/server/d com/mojang/minecraft/server/HeartbeatThread
-	FIELD b server Lcom/mojang/minecraft/server/MinecraftServer;
-	METHOD <init> (Lcom/mojang/minecraft/server/MinecraftServer;Ljava/lang/String;)V
-		ARG 1 server
-	METHOD run run ()V

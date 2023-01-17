@@ -1,5 +1,0 @@
-CLASS com/mojang/minecraft/level/e com/mojang/minecraft/level/LevelObjectInputStream
-	FIELD a classes Ljava/util/Set;
-	METHOD <init> (Ljava/io/InputStream;)V
-		ARG 1 stream
-	METHOD readClassDescriptor readClassDescriptor ()Ljava/io/ObjectStreamClass;

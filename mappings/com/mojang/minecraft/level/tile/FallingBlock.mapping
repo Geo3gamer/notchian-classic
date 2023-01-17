@@ -1,6 +1,0 @@
-CLASS com/mojang/minecraft/level/tile/f com/mojang/minecraft/level/tile/FallingBlock
-	METHOD d fall (Lcom/mojang/minecraft/level/Level;III)V
-		ARG 1 level
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z
