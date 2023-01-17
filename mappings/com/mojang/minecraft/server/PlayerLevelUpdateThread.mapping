@@ -1,7 +1,0 @@
-CLASS com/mojang/minecraft/server/a com/mojang/minecraft/server/PlayerLevelUpdateThread
-	FIELD a blocks [B
-	FIELD b player Lcom/mojang/minecraft/server/h;
-	METHOD <init> (Lcom/mojang/minecraft/server/h;[B)V
-		ARG 1 player
-		ARG 2 blocks
-	METHOD run run ()V

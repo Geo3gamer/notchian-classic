@@ -1,5 +1,0 @@
-CLASS com/mojang/minecraft/level/tile/b com/mojang/minecraft/level/tile/LeavesBaseBlock
-	METHOD <init> (IIZ)V
-		ARG 1 id
-		ARG 2 textureID
-		ARG 3 isFalling

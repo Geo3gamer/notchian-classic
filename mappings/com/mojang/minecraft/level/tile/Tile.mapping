@@ -1,4 +1,0 @@
-CLASS com/mojang/minecraft/level/tile/Tile
-	CLASS SoundType SoundType
-		FIELD name name Ljava/lang/String;
-		METHOD getVolume getVolume ()F

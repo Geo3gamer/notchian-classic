@@ -1,6 +1,0 @@
-CLASS com/mojang/minecraft/server/g com/mojang/minecraft/server/DisconnectEntry
-	FIELD a connection Lcom/mojang/a/a;
-	FIELD b delay I
-	METHOD <init> (Lcom/mojang/a/a;I)V
-		ARG 1 connection
-		ARG 2 delay

@@ -1,6 +1,0 @@
-CLASS com/mojang/minecraft/level/a/a/a com/mojang/minecraft/level/generator/noise/OctaveNoise
-	FIELD a perlin [Lcom/mojang/minecraft/level/a/a/d;
-	FIELD b octaves I
-	METHOD <init> (Ljava/util/Random;I)V
-		ARG 1 random
-		ARG 2 octaves

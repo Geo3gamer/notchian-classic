@@ -1,6 +1,0 @@
-CLASS com/mojang/minecraft/server/b com/mojang/minecraft/server/ServerLogStreamHandler
-	METHOD <init> (Ljava/io/OutputStream;Ljava/util/logging/Formatter;)V
-		ARG 1 stream
-		ARG 2 formatter
-	METHOD publish publish (Ljava/util/logging/LogRecord;)V
-		ARG 1 record

@@ -1,6 +1,0 @@
-CLASS com/mojang/minecraft/level/a/a/d com/mojang/minecraft/level/generator/noise/PerlinNoise
-	FIELD a noise [I
-	METHOD <init> (Ljava/util/Random;)V
-		ARG 1 random
-	METHOD a lerp (DDD)D
-	METHOD a grad (IDDD)D

@@ -1,3 +1,0 @@
-CLASS com/mojang/minecraft/b com/mojang/minecraft/MovingObjectPosition
-	METHOD <init> (IIIILcom/mojang/minecraft/b/a;)V
-		ARG 5 vec

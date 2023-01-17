@@ -1,7 +1,0 @@
-CLASS com/mojang/a/b com/mojang/minecraft/server/network/NetworkManager
-	FIELD a channel Ljava/nio/channels/ServerSocketChannel;
-	FIELD b server Lcom/mojang/minecraft/server/MinecraftServer;
-	FIELD c connections Ljava/util/List;
-	METHOD <init> (ILcom/mojang/minecraft/server/MinecraftServer;)V
-		ARG 1 port
-		ARG 2 server
