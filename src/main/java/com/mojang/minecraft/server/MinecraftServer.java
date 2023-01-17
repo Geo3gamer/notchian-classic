@@ -84,6 +84,7 @@ public class MinecraftServer implements Runnable {
             serverProperties.setProperty("max-connections", "3");
             serverProperties.setProperty("grow-trees", "" + this.growTrees);
             serverProperties.setProperty("admin-slot", "" + this.adminSlot);
+            serverProperties.setProperty("heartbeat-server", "" + this.heartbeatServer);
         } catch (final Exception ex2) {
             ex2.printStackTrace();
             MinecraftServer.logger.warning("server.properties is broken! Delete it or fix it!");
